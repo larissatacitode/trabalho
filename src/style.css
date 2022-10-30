@@ -1,0 +1,58 @@
+.imagem-carrossel-um {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.nossosprodutos {
+    padding-bottom: 3rem;
+}
+
+.Fechar {
+    margin-top: 30px;
+}
+
+.card-largura {
+    max-width: 18rem
+}
+
+.imagem-carrossel-dois {
+    object-fit: cover;
+    height: 400px;
+}
+
+.font-titulo {
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-especial {
+    color: darkred;
+}
+
+.texto {
+    text-decoration: none;
+}
+
+.botao-cor-especial {
+    background-color: darkred;
+    color: white;
+}
+
+.borda-cor-especial {
+    border-color: darkred;
+}
+
+.card-posiçao-imagem {
+    object-fit: cover;
+    height: 200px;
+}
+
+
+.cor-fundo {
+    background-color: lightgray;
+}
+
+.espaço {
+    margin-left: 113.500px;
+    margin-right: 113.500px;
+}
